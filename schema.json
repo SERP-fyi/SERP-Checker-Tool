@@ -20,6 +20,7 @@
       "https://npmjs.com/package/@serp-fyi/serp-checker-tool",
       "https://huggingface.co/datasets/serp-fyi/serp-checker-benchmarks",
       "https://kaggle.com/datasets/serpfyi/serp-checker-benchmarks",
+      "https://zenodo.org/records/20648924",      
       "https://serp-fyi.github.io/SERP-Checker-Tool/"
     ]
   },
