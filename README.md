@@ -1,7 +1,7 @@
 # SERP Checker Tool
 
 [![npm](https://img.shields.io/npm/v/@serp-fyi/serp-checker-tool)](https://npmjs.com/package/@serp-fyi/serp-checker-tool)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20648924.svg)](https://doi.org/10.5281/zenodo.20648924)
 
 Analyze search results in real time — uncovering intent signals, SERP features, content gaps, and competitor patterns that drive rankings. Built by [SERPChecker.fyi](https://serpchecker.fyi) powered by BHMarketer.
 
@@ -128,7 +128,7 @@ SERP Analysis · Search Intent Classification · Content Gap Detection · SERP F
 | NPM | https://npmjs.com/package/@serp-fyi/serp-checker-tool |
 | Hugging Face | https://huggingface.co/datasets/serp-fyi/serp-checker-benchmarks |
 | Kaggle | https://kaggle.com/datasets/serpfyi/serp-checker-benchmarks |
-| Zenodo | https://zenodo.org/records/XXXXXXX |
+| Zenodo | https://zenodo.org/records/20648924 |
 | Docs | https://serp-checker-tool.readthedocs.io |
 
 ## About SERPChecker.fyi
