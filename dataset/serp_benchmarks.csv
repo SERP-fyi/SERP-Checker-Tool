@@ -1,0 +1,21 @@
+id,keyword,intent,ai_overview_pct,avg_word_count,paa_count,content_gap_score,top_format,serp_feature_score,category,notes
+1,best seo analysis tool 2026,informational,92,2840,8,38,Listicle + Table,74,SEO Tools,High AI Overview presence
+2,buy seo software,transactional,12,1400,3,55,Product Page + Schema,82,SEO Tools,Strong transactional signals
+3,seo tool comparison,commercial,65,2200,6,45,Comparison + Review,68,SEO Tools,Review-heavy SERP
+4,what is serp analysis,informational,95,3100,10,30,Guide + Definition,78,Education,FAQ-heavy intent
+5,serp checker free,commercial,58,1900,5,48,Tool Review + CTA,72,SEO Tools,Mixed commercial intent
+6,best keyword research tool,informational,88,2600,7,42,Listicle + Comparison,76,Keyword Research,Strong informational SERP
+7,keyword difficulty checker,commercial,70,2100,6,40,Tool Review,65,Keyword Research,Commercial with info intent
+8,local seo ranking factors,informational,85,3200,9,35,Guide + Checklist,80,Local SEO,PAA-heavy SERP
+9,featured snippet optimization,informational,90,2900,8,32,How-To + List,77,SERP Features,AI Overview dominant
+10,content gap analysis tool,commercial,60,2000,5,50,Comparison + Review,70,Content Strategy,Mixed intent signals
+11,google ai overview seo,informational,94,3000,10,28,News + Guide,85,AI SEO,Emerging topic
+12,competitor keyword analysis,commercial,55,2300,6,44,Tool Comparison,67,Competitor Analysis,Review format dominant
+13,serp features tracker,commercial,48,1800,4,52,Tool Review,63,SERP Features,Commercial intent
+14,search intent classification,informational,87,2700,8,36,Guide + Examples,74,Search Intent,Educational SERP
+15,people also ask optimization,informational,91,2500,9,33,How-To + FAQ,79,PAA,Strong PAA presence
+16,content depth seo,informational,83,3400,8,30,Long-form Guide,76,Content SEO,Long-form dominant
+17,ranking signal analysis,informational,80,2800,7,38,Technical Guide,72,Ranking Signals,Technical SERP
+18,buy seo audit tool,transactional,15,1200,2,60,Product + Pricing,88,SEO Tools,Pure transactional
+19,seo competitor research,commercial,62,2100,5,46,Comparison + Case Study,69,Competitor Analysis,Case study format
+20,topical authority seo,informational,89,3100,9,31,Expert Guide,78,Content Strategy,Authority-focused SERP
