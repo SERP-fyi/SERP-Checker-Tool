@@ -1,0 +1,53 @@
+{
+  "title": "SERP Checker Tool",
+  "description": "Analyze search results in real time — uncovering intent signals, SERP features, content gaps, and competitor patterns that drive rankings. Built by SERPChecker.fyi powered by BHMarketer.",
+  "creators": [
+    {
+      "name": "SERPChecker.fyi",
+      "affiliation": "BHMarketer"
+    }
+  ],
+  "keywords": [
+    "SERP analysis",
+    "search intent",
+    "content gap detection",
+    "SERP features",
+    "competitor analysis",
+    "SEO tool",
+    "SERPChecker",
+    "BHMarketer",
+    "AI visibility",
+    "ranking signals"
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open",
+  "doi": "10.5281/zenodo.XXXXXXX",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/serp-fyi/SERP-Checker-Tool",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://serpchecker.fyi",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://npmjs.com/package/@serp-fyi/serp-checker-tool",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://huggingface.co/datasets/serp-fyi/serp-checker-benchmarks",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://kaggle.com/datasets/serpfyi/serp-checker-benchmarks",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

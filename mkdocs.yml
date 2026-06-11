@@ -1,0 +1,21 @@
+site_name: SERP Checker Tool
+site_url: https://serp-checker-tool.readthedocs.io
+site_description: Analyze search results in real time — uncovering intent signals, SERP features, content gaps, and competitor patterns that drive rankings. Powered by SERPChecker.fyi
+site_author: SERPChecker.fyi
+
+repo_name: serp-fyi/SERP-Checker-Tool
+repo_url: https://github.com/serp-fyi/SERP-Checker-Tool
+
+theme:
+  name: material
+  palette:
+    primary: teal
+    accent: teal
+
+nav:
+  - Home: index.md
+
+markdown_extensions:
+  - tables
+  - toc:
+      permalink: true

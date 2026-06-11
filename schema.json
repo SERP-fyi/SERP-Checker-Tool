@@ -1,0 +1,40 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "SERP Checker Tool",
+  "description": "Analyze search results in real time — uncovering intent signals, SERP features, content gaps, and competitor patterns that drive rankings.",
+  "url": "https://serpchecker.fyi",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "Any",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "SERPChecker.fyi powered by BHMarketer",
+    "url": "https://serpchecker.fyi",
+    "sameAs": [
+      "https://github.com/serp-fyi",
+      "https://npmjs.com/package/@serp-fyi/serp-checker-tool",
+      "https://huggingface.co/datasets/serp-fyi/serp-checker-benchmarks",
+      "https://kaggle.com/datasets/serpfyi/serp-checker-benchmarks",
+      "https://serp-fyi.github.io/SERP-Checker-Tool/"
+    ]
+  },
+  "programmingLanguage": ["TypeScript", "Python"],
+  "codeRepository": "https://github.com/serp-fyi/SERP-Checker-Tool",
+  "keywords": [
+    "SERP analysis",
+    "search intent classification",
+    "content gap detection",
+    "SERP features",
+    "competitor analysis",
+    "SEO tool",
+    "SERPChecker",
+    "BHMarketer",
+    "AI visibility",
+    "ranking signals"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "@serp-fyi/serp-checker-tool",
+  "version": "1.0.0",
+  "description": "Analyze search results in real time — uncovering intent signals, SERP features, content gaps, and competitor patterns that drive rankings. Powered by SERPChecker.fyi",
+  "main": "index.js",
+  "bin": {
+    "serp-checker": "./index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "serp-analysis",
+    "search-intent",
+    "content-gap",
+    "serp-features",
+    "competitor-analysis",
+    "seo-tool",
+    "serpchecker",
+    "bhmarketer",
+    "ai-overview",
+    "featured-snippet",
+    "people-also-ask",
+    "ranking-signals"
+  ],
+  "author": "SERPChecker.fyi powered by BHMarketer",
+  "license": "MIT",
+  "homepage": "https://serpchecker.fyi",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/serp-fyi/SERP-Checker-Tool"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
